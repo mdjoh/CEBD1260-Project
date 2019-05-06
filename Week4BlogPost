@@ -1,1 +1,12 @@
-#Explanation of the dataset
+# Explanation of the dataset
+
+The FIFA 19 dataset is composed of qualitative and quantitative attributes for every player in theEA Sports video game FIFA 19.
+The dataset has 89 player attribute features and over 18,000 players listed. Nominal features, for example the club the player 
+plays for, position, nationality, work rate, and preferred foot of a player, and quantitative features such as height, weight, 
+wage,market value, and skill ratings comprise this dataset. Skill attributes indicating how good a player is are numerical ratings
+on a scale of 100 or on a scale of 5.
+
+In the year 2018, Wolverhampton was promoted to the Premier League since its delegation 6 years ago. It is the time now to invest and
+develop the team to be competitive in the Premier League and avoid the delegation again. This dataset is useful to validate the current
+status of the team, understand and analyze the weak and strong aspect to rebuild the team fit for the Premier League.
+
