@@ -12,14 +12,15 @@ status of the team, understand and analyze the weak and strong aspect to rebuild
 
 ### Analysis of the current status of the team.
 
-[Graph 1](./Blog Figures/Wage vs Overall Rating.PNG)
+![Graph 1](./Blog Figures/Wage vs Overall Rating.PNG)
 Graph 1 shows the relationship between the wage and the rate of the player. As can be seen from the graph, the relationship between
 the player rating and his wage is a linear relationship. 
 
 
-[Figure 1]
-[Figure 2]
-[Figure 3]
+![Figure 1](./Blog Figures/Average per team.PNG)
+![Figure 2](./Blog Figures/Average in the league.PNG)
+![Figure 3](./Blog Figures/Average Wolverhampton.PNG)
+
 Figure 1 shows the average wage of the teams in the Premier League, while the Figure 2 shows the average wage of the whole league, 
 and Figure 3 shows the average wage our team. Teams with higher wage, thus with players with higher rating, tend to survive and perform well
 in the league. Therefore, if we can bring in the players with higher rate, it would be possible to survive in the league.
