@@ -15,7 +15,7 @@ The average Wolverhampton wage is **28.87** while that of the whole league is **
 ![Figure 1: Average rate of position of Wolverhampton](./Blog_Figures/Wolves_position.PNG)
 ![Figure 2: Average rate of position of the whole league](./Blog_Figures/League_position.PNG)
 
-Figure 2 and 3 represents the average rate of position of Wolverhampton and all the team in the league respectively. The mean absolute error for these positions is approximately **3.65**. Therefore we need bring players with approximately 3.65 higher rating than the average of the team, while letting go players with lower rating to be close to the average team rating.
+Figure 2 and 3 represents the average rate of position of Wolverhampton and all the team in the league respectively. The mean absolute error for these positions is approximately **3.65**. To eradicate the error, we need bring players with higher rating than the average of the team, while letting go players with lower rating to be close to the average team rating.
 
 ![Graph 2: Age vs average wage](./Blog_Figures/Age_vs_Average_Value.PNG)
 ![Graph 3: Age vs average overall rating](./Blog_Figures/Average_rating_vs_age.PNG)
