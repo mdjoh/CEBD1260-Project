@@ -10,12 +10,12 @@ In the year 2018, Wolverhampton was promoted to the Premier League since its del
 
 Graph 1 shows the relationship between the wage and the rate of the player. As can be seen from the graph, the relationship between the player rating and his wage is a linear relationship. 
 
-The average Wolverhampton wage is 28.87 while that of the whole league is 39.30. Teams with higher wage, thus with players with higher rating, tend to survive and perform well in the league. Therefore, if we can bring in the players with higher rate, it would be possible to survive in the league.
+The average Wolverhampton wage is **28.87** while that of the whole league is **39.30**. Teams with higher wage, thus with players with higher rating, tend to survive and perform well in the league. Therefore, if we can bring in the players with higher rate, it would be possible to survive in the league.
 
 ![Figure 1: Average rate of position of Wolverhampton](./Blog_Figures/Wolves_position.PNG)
 ![Figure 2: Average rate of position of the whole league](./Blog_Figures/League_position.PNG)
 
-Figure 2 and 3 represents the average rate of position of Wolverhampton and all the team in the league respectively. The mean absolute error for these positions is approximately 3.65. Therefore we need bring players with approximately 3.65 higher rating than the average of the team, while letting go players with lower rating to be close to the average team rating.
+Figure 2 and 3 represents the average rate of position of Wolverhampton and all the team in the league respectively. The mean absolute error for these positions is approximately **3.65**. Therefore we need bring players with approximately 3.65 higher rating than the average of the team, while letting go players with lower rating to be close to the average team rating.
 
 ![Graph 2: Age vs average wage](./Blog_Figures/Age_vs_Average_Value.PNG)
 ![Graph 3: Age vs average overall rating](./Blog_Figures/Average_rating_vs_age.PNG)
