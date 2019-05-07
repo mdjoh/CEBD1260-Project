@@ -12,7 +12,7 @@ status of the team, understand and analyze the weak and strong aspect to rebuild
 
 ### Analysis of the current status of the team.
 
-![Graph 1](./Blog Figures/Wage vs Overall Rating.PNG)
+![Graph 1](./'Blog Figures'/'Wage vs Overall Rating'.PNG)
 Graph 1 shows the relationship between the wage and the rate of the player. As can be seen from the graph, the relationship between
 the player rating and his wage is a linear relationship. 
 
