@@ -26,6 +26,6 @@ As a solution, players that have the potential to develop into higher-rated play
 
 Examples of players that meet the criteria and play in positions that address areas of need for Wolves are presented in the following table.
 
-![transfer target table](Blog_Figures/example_targets.png)
+![transfer target table](Blog_Figures/example_targets.PNG)
 
 These players should be considered as some of the potential transfer targets that can benefit the club.
