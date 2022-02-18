@@ -20,7 +20,7 @@ There are 89 features that describe a player. Nominal features, for example the 
 
 ### Outliers
 A value was deemed to be an outlier if it was beyond +/- 3 standard deviations of the corresponding feature.
-Initially, outliers were replaced with the most extreme admissible value within +/- 3 standard deviations but this transformed the data to a degree that greatly affected the model. By deeming values as outliers, the essence of the data was eliminated as a large number of players were grouped together. Any model built using the outlier-free dataset would consequently lose its ability distinguish players. Therefore, no outliers were replaced for model training.
+Initially, outliers were replaced with the most extreme admissible value within +/- 3 standard deviations but this transformed the data to a degree that greatly affected the model. By deeming values as outliers, the essence of the data was eliminated as a large number of players were grouped together. Any model built using the outlier-free dataset would consequently lose its ability to distinguish players. Therefore, no outliers were replaced for the model training.
 
 ![Plots of raw and outlier removed data](Data/outliers.png)
 Figure 1. The plot on the left represents the raw market value data while the plot on the right represents the market value data where outliers were replaced with extreme values within +/- 3 standard deviations.
